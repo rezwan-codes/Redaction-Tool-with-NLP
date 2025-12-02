@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+spacy==3.6.0
+numpy==1.25.0
+regex
+python-docx
+docx2txt
+PyMuPDF
